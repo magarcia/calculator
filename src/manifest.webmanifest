@@ -1,0 +1,10 @@
+{
+  "name": "Calculator",
+  "short_name": "Calc",
+  "theme_color": "hsl(0,70%,72%)",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/"
+}
